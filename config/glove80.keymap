@@ -25,7 +25,7 @@
 
             #binding-cells = <0>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
-        }
+        };
 
         N8_slash: N8_slash {
             compatible = "zmk,behavior-mod-morph";
